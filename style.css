@@ -1,0 +1,37 @@
+.botao {
+    background-color: #f3efdff3; /* cor de fundo */
+    color: blue; /* cor do texto */
+    padding: 10px 20px; /* espaçamento interno (topo/baixo esquerda/direita) */
+    font-size: 16px; /* tamanho da fonte */
+    border: none; /* remover a borda */
+    cursor: pointer; /* alterar o cursor ao passar o mouse */
+    border-radius: 20px; /* arredondar os cantos */
+    text-decoration: none;
+    width: 200px; /* Defina a largura desejada */
+  }
+  
+.botao:hover {
+    background-color: #a49aa8; /* cor de fundo ao passar o mouse */
+}
+
+body{
+  background-color :black;
+  color: rgb(156, 156, 130);
+}
+.bntvoltar{
+  background-color: dimgrey;
+}
+.btn-btn{
+  background-color: blanchedalmond;
+}
+.btnbtn2{
+  background-color: darkslategray;
+}
+.btnbtn-info{
+  background-color: rgb(156, 156, 130);
+  color: rgb(255, 255, 255);
+}
+.btn{
+  background-color: slategrey;
+  color: black;
+}
